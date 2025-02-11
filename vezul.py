@@ -241,10 +241,3 @@ else:
     print('Please register to vote ass soon you turn 18')
 
 #/////////////////
-age = 22
-if age < 4:
-    print('It will cost 0 for you.')
-elif age < 18:
-    print('It will cost you 25')
-else:
-    print('For you it will be 40 dolars')
