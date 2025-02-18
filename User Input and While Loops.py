@@ -56,3 +56,24 @@ while name == "":
    name = input("Enter your name: ")
 
 print(f"Hello {name}")
+
+#TRY IT YOURSELF
+#Pizza Toppings
+while True:
+    toppings = input("Enter a pizza toppings  (or type 'quit'to finish): ")
+    if toppings =='quit':
+        print("Your pizza is ready!")
+        break
+    print(f"Adding {toppings} to your pizza!")
+
+#Movie Tickets:
+while True:
+    age = int(input("Whats you age? "))
+    if age <3:
+        price = 'Free'
+    elif age >3<12:
+        price = "10$"
+    elif age >12:
+        price = "15$"
+    break
+print(f"This is the cost of the ticket {price}.")
