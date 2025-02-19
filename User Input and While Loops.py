@@ -1,3 +1,14 @@
+📌 About the Project
+This repository contains Python exercises focused on **user input**, **while loops**, and **interactive programs**. The goal is to improve fundamental programming skills through practical examples.
+
+## 📝 Exercises Overview:
+- **🖋️ User Input:** Getting input from users and dynamically responding.
+- **🔢 Numerical Input:** Handling and validating numerical inputs using `int()`.
+- **🔄 While Loops:** Implementing `while` loops for repeated interactions.
+- **🍕 Practical Scenarios:** Rental car inquiries, restaurant seating, and pizza topping selection.
+- **🎮 Interactive Tasks:** Password validation, ATM withdrawal simulation, guessing game, and more!
+- **🥪 Data Processing:** Managing lists, verifying users, and removing specific items.
+    
 #User Input and While Loops
 name = input("Please write your name: ")
 print(f"Hello {name}!")
